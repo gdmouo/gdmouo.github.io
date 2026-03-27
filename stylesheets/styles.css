@@ -278,7 +278,7 @@ footer {
 .backdrop {
   width: 200px;       /* size of the square */
   height: 200px;
-  background-color: #3b82f6; /* blue */
+  background-color: #e2d9d0; /* blue */
   border-radius: 0;   /* make it a perfect square */
 }
 
